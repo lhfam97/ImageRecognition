@@ -1,0 +1,2 @@
+Model;F1 Score;Precision Score;Accuracy Score;Recall Score;Prediction Time
+CNN;0.9035883210036065;0.9057206053629967;0.9033;0.9033;7.863498210906982
